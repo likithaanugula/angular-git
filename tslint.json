@@ -4,6 +4,7 @@
     "codelyzer"
   ],
   "rules": {
+    "quotes":["double"],
     "align": {
       "options": [
         "parameters",
